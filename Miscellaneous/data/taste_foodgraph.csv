@@ -1,0 +1,340 @@
+name1,relationship,name2,taste
+cocktail,exist,Le Noir Bar & Lounge,
+pizza,exist,Le Noir Bar & Lounge,
+beer,exist,Le Noir Bar & Lounge,
+whiskey,exist,Le Noir Bar & Lounge,sour
+chicken,exist,Marmaris Restaurant,fresh
+mandi rice,exist,Marmaris Restaurant,tender
+layer juice,exist,Marmaris Restaurant,
+saudi kabsah rice,exist,Marmaris Restaurant,
+mango juice,exist,Marmaris Restaurant,
+shawarmas,exist,Marmaris Restaurant,
+briyani,exist,Marmaris Restaurant,
+chicken soup,exist,Fu Lin Men (CSC),fresh
+chicken,exist,Fu Lin Men (CSC),sweet
+XO carrot cake,exist,Fu Lin Men (CSC),
+peking duck,exist,Fu Lin Men (CSC),sour
+noodles,exist,Fu Lin Men (CSC),sweet
+kurobuta pork,exist,Fu Lin Men (CSC),
+prawn,exist,Fu Lin Men (CSC),soft
+yam basket,exist,Fu Lin Men (CSC),
+steam garouper fish,exist,Fu Lin Men (CSC),
+fried mee sua,exist,Fu Lin Men (CSC),
+orh nee,exist,Fu Lin Men (CSC),
+tofu,exist,Alma By Juan Amador,soft
+lobster pasta,exist,Alma By Juan Amador,fresh
+potato bread,exist,Alma By Juan Amador,hot
+crab,exist,Alma By Juan Amador,
+oysters,exist,Alma By Juan Amador,fresh
+ohni beef,exist,Alma By Juan Amador,
+pasta,exist,Alma By Juan Amador,fresh
+foie gras,exist,Alma By Juan Amador,fresh
+petit fours,exist,Alma By Juan Amador,
+chicken soup,exist,Fu Lin Men Chinese Restaurant (SRC),
+chicken,exist,Fu Lin Men Chinese Restaurant (SRC),soft
+XO carrot cake,exist,Fu Lin Men Chinese Restaurant (SRC),
+peking duck,exist,Fu Lin Men Chinese Restaurant (SRC),
+noodles,exist,Fu Lin Men Chinese Restaurant (SRC),
+kurobuta pork,exist,Fu Lin Men Chinese Restaurant (SRC),
+prawn,exist,Fu Lin Men Chinese Restaurant (SRC),
+yam basket,exist,Fu Lin Men Chinese Restaurant (SRC),
+steam garouper fish,exist,Fu Lin Men Chinese Restaurant (SRC),
+fried mee sua,exist,Fu Lin Men Chinese Restaurant (SRC),
+orh nee,exist,Fu Lin Men Chinese Restaurant (SRC),
+sweet crepes,exist,Entre-Nous creperie,sweet
+galettes,exist,Entre-Nous creperie,sweet
+emmental cheese,exist,Entre-Nous creperie,fresh
+ham,exist,Entre-Nous creperie,fresh
+escargot,exist,Entre-Nous creperie,sweet
+vanilla ice cream,exist,Entre-Nous creperie,sweet
+prawn,exist,Entre-Nous creperie,fresh
+salad,exist,Entre-Nous creperie,sweet
+chicken,exist,Entre-Nous creperie,crispy
+crepes,exist,Entre-Nous creperie,sweet
+mushroom coup,exist,Entre-Nous creperie,
+bread,exist,Cure,sour
+scallop dish,exist,Cure,
+laksa,exist,Cure,
+liver,exist,Cure,
+noodles,exist,Cure,
+paired wine,exist,Cure,
+roast lamb,exist,Cure,
+calzone,exist,Positano Risto,fresh
+squid ink pasta,exist,Positano Risto,soft
+meat lovers pizza,exist,Positano Risto,soft
+seafood aglio olio,exist,Positano Risto,soft
+mac,exist,Positano Risto,hot
+cheese,exist,Positano Risto,hot
+lava cake,exist,Positano Risto,hot
+lamb shank,exist,Positano Risto,tender
+cakes,exist,Positano Risto,spicy
+soup,exist,Positano Risto,hot
+fries,exist,Positano Risto,soft
+sashimi,exist,Colony,fresh
+oysters,exist,Colony,fresh
+seafood,exist,Colony,fresh
+cakes,exist,Colony,sweet
+ice cream,exist,Colony,hot
+chilli crab,exist,Colony,fresh
+bread,exist,Colony,fresh
+salad,exist,Colony,fresh
+lobster meat,exist, Summer Pavilion,
+smocked duck,exist, Summer Pavilion,
+abalone,exist, Summer Pavilion,sweet
+noodles,exist, Summer Pavilion,fresh
+soup,exist, Summer Pavilion,sweet
+tarts,exist, Summer Pavilion,sweet
+mango,exist, Summer Pavilion,sweet
+cakes,exist, Summer Pavilion,
+fries,exist, Summer Pavilion,
+oolong tea,exist, Summer Pavilion,hot
+sago,exist, Summer Pavilion,sweet
+bamboo clams,exist, Summer Pavilion,
+pizza,exist, Zazz Pizza,fresh
+crab cakes,exist, Zazz Pizza,
+salad,exist, Zazz Pizza,
+garlic bread,exist, Zazz Pizza,
+param ham,exist, Zazz Pizza,
+pasta dishes,exist, Zazz Pizza,
+ribeye,exist, Zazz Pizza,
+tiramisu,exist, Zazz Pizza,
+ice cream,exist, Zazz Pizza,
+prawn,exist, Zazz Pizza,spicy
+chicken,exist, Zazz Pizza,hot
+pork knuckle,exist, Paulaner Brauhaus Singapore,hard
+pretzels,exist, Paulaner Brauhaus Singapore,fresh
+mashed potatos,exist, Paulaner Brauhaus Singapore,
+beer,exist, Paulaner Brauhaus Singapore,fresh
+pasta,exist, Waterfall Ristorante Italiano,fresh
+profiteroles,exist, Waterfall Ristorante Italiano,
+gelato,exist, Waterfall Ristorante Italiano,sweet
+bread,exist, Waterfall Ristorante Italiano,fresh
+cakes,exist, Waterfall Ristorante Italiano,sweet
+clams,exist, Waterfall Ristorante Italiano,fresh
+lamb,exist, Waterfall Ristorante Italiano,soft
+ice cream,exist, Waterfall Ristorante Italiano,
+soup,exist, Waterfall Ristorante Italiano,fresh
+mushroom steak,exist, Joie by Dozo,hot
+poached pear,exist, Joie by Dozo,
+sashimi,exist, Joie by Dozo,hot
+vegetarian plate,exist, Joie by Dozo,
+brownie,exist, Joie by Dozo,
+fish mear,exist, Joie by Dozo,
+soup,exist, Joie by Dozo,
+cakes,exist, Joie by Dozo,
+liquid chocolate,exist, Joie by Dozo,
+bread,exist, Tablescape Restaurant & Bar,fresh
+iberico pork,exist, Tablescape Restaurant & Bar,tender
+chocolate mousse cake,exist, Tablescape Restaurant & Bar,
+risotto,exist, Tablescape Restaurant & Bar,salty
+rump steak,exist, Tablescape Restaurant & Bar,tender
+short ribs,exist, Tablescape Restaurant & Bar,soft
+prosciutto,exist, Tablescape Restaurant & Bar,salty
+amuse bouche,exist, Tablescape Restaurant & Bar,
+cod fish,exist, Tablescape Restaurant & Bar,
+sea bass,exist, Tablescape Restaurant & Bar,
+truffle,exist, Tablescape Restaurant & Bar,
+cakes,exist, Tablescape Restaurant & Bar,
+chicken,exist, Tablescape Restaurant & Bar,sweet
+tuna pizza,exist, Akira Back,hot
+tacos,exist, Akira Back,hot
+seaweed salad,exist, Akira Back,
+crispy pork belly,exist, Akira Back,hot
+short ribs,exist, Akira Back,hot
+king crab,exist, Akira Back,spicy
+cod fish,exist, Akira Back,hot
+truffle,exist, Akira Back,fresh
+sea bass,exist, Akira Back,hot
+rice,exist, Akira Back,hot
+hokkaido scallops,exist, Akira Back,
+foie gras,exist, NOX - Dine in the Dark,fresh
+cakes,exist, NOX - Dine in the Dark,
+seafood,exist, NOX - Dine in the Dark,fresh
+risotto,exist, The Wine & Gourmet Friends,tender
+bak kut the,exist, The Wine & Gourmet Friends,
+lotus leaf rice,exist, The Wine & Gourmet Friends,crispy
+truffle,exist, The Wine & Gourmet Friends,tender
+pork,exist, The Wine & Gourmet Friends,tender
+banana cake,exist, The Wine & Gourmet Friends,
+fries,exist, The Wine & Gourmet Friends,soft
+kaya toast,exist, The Wine & Gourmet Friends,sweet
+cod fish,exist, The Wine & Gourmet Friends,fresh
+mash,exist, The Wine & Gourmet Friends,tender
+ribs,exist, The Wine & Gourmet Friends,fresh
+steak,exist, The Wine & Gourmet Friends,tender
+hokkaido scallops,exist, The Wine & Gourmet Friends,
+onglet steak,exist, Fat Belly,tender
+creamed kale,exist, Fat Belly,
+cheesecake,exist, Fat Belly,sweet
+steak,exist, Fat Belly,tender
+wagyu,exist, Fat Belly,tender
+sticky date pudding,exist, Fat Belly,sweet
+rump cap,exist, Fat Belly,
+cherry tomatos,exist, Fat Belly,
+truffle,exist, Fat Belly,fresh
+short ribs,exist, Fat Belly,
+ice cream,exist, Fat Belly,sweet
+fries,exist, Fat Belly,fresh
+char siew,exist, Fat Belly,
+pork belly,exist, Fat Belly,
+mango,exist, Fat Belly,
+banana flower vada,exist, Greenleaf Cafe,fresh
+thali,exist, Greenleaf Cafe,
+curry,exist, Greenleaf Cafe,
+rice,exist, Greenleaf Cafe,sour
+soup,exist, Greenleaf Cafe,fresh
+amuse bouche,exist, Vianney Massot Restaurant,
+bresse chicken,exist, Vianney Massot Restaurant,
+cauliflower dish,exist, Vianney Massot Restaurant,
+white truffle,exist, Vianney Massot Restaurant,
+foie gras,exist, Vianney Massot Restaurant,
+parfait,exist, Vianney Massot Restaurant,sweet
+hairy crab,exist, Vianney Massot Restaurant,
+lobster,exist, Vianney Massot Restaurant,
+hokkaido scallops,exist, Vianney Massot Restaurant,
+crispy duck,exist, Madame Fan,fresh
+almond cream,exist, Madame Fan,sweet
+dim sum,exist, Madame Fan,hot
+mud crab,exist, Madame Fan,
+shumai,exist, Madame Fan,tender
+siew mai,exist, Madame Fan,hot
+claypot rice,exist, Madame Fan,sweet
+soup,exist, Madame Fan,fresh
+carbonara,exist, Madame Fan,soft
+ribs,exist, Madame Fan,
+cakes,exist, Madame Fan,soft
+lobster,exist, Madame Fan,fresh
+prawn,exist, Madame Fan,
+prosciutto,exist, Elixir Boutique Roasters,salty
+french toast,exist, Elixir Boutique Roasters,fresh
+carbonara,exist, Elixir Boutique Roasters,
+onsen egg,exist, Elixir Boutique Roasters,
+duck cassoulet,exist, Elixir Boutique Roasters,sweet
+turkish eggs,exist, Elixir Boutique Roasters,sour
+truffle fries,exist, Elixir Boutique Roasters,
+rendong,exist, Elixir Boutique Roasters,
+bacon slab,exist, Elixir Boutique Roasters,
+iced mocha,exist, Elixir Boutique Roasters,
+bread,exist, Elixir Boutique Roasters,soft
+salad,exist, Elixir Boutique Roasters,
+fluffy eggs,exist, Elixir Boutique Roasters,
+chamomile tea,exist, Elixir Boutique Roasters,
+tarte flambee,exist, Bar-Roque Grill,fresh
+steak,exist, Bar-Roque Grill,tender
+beef wellington,exist, Bar-Roque Grill,
+ravioles,exist, Bar-Roque Grill,
+charcuterie platter,exist, Bar-Roque Grill,fresh
+foie gras,exist, Bar-Roque Grill,fresh
+couscous,exist, Bar-Roque Grill,
+ceviche,exist, Bar-Roque Grill,tender
+chicken,exist, Bar-Roque Grill,tender
+mashed potatos,exist, Bar-Roque Grill,
+bread,exist, Bar-Roque Grill,fresh
+salad,exist, Bar-Roque Grill,spicy
+clams,exist, Bar-Roque Grill,fresh
+scones,exist, Chihuly Lounge,hard
+sorbet,exist, Chihuly Lounge,fresh
+cakes,exist, Chihuly Lounge,fresh
+beef,exist, Chihuly Lounge,hot
+scallops,exist, Chihuly Lounge,
+high tea,exist, Chihuly Lounge,
+irish coffee,exist, Chihuly Lounge,
+singapore sling,exist, Chihuly Lounge,
+octopus,exist, Origin Grill,tender
+wagyu,exist, Origin Grill,tender
+steak,exist, Origin Grill,tender
+aged beef,exist, Origin Grill,soft
+miso cod,exist, Origin Grill,
+creame brulee,exist, Origin Grill,
+cakes,exist, Origin Grill,fresh
+pork belly,exist, Origin Grill,
+risotto,exist, Origin Grill,salty
+oysters,exist, Origin Grill,fresh
+donuts,exist, Origin Grill,
+salad,exist, Origin Grill,fresh
+masala dosa,exist, MTR Singapore,spicy
+bisibele bath,exist, MTR Singapore,
+mango,exist, MTR Singapore,sweet
+rice,exist, MTR Singapore,fresh
+salad,exist, My Awesome Cafe,fresh
+sandwiches,exist, My Awesome Cafe,hot
+bread,exist, My Awesome Cafe,fresh
+duck confit,exist, My Awesome Cafe,fresh
+burger,exist, My Awesome Cafe,
+ham,exist, My Awesome Cafe,fresh
+cold cuts,exist, My Awesome Cafe,fresh
+cakes,exist, My Awesome Cafe,fresh
+cool café,exist, My Awesome Cafe,
+tom yam kung,exist, Soi Aroy,
+grilled pork,exist, Soi Aroy,
+noodles,exist, Soi Aroy,fresh
+mixed platter,exist, Soi Aroy,
+bak chor mee,exist, Soi Aroy,spicy
+soup,exist, Soi Aroy,spicy
+sago,exist, Soi Aroy,sour
+ribs,exist, Soi Aroy,tender
+porridge,exist, Soi Aroy,
+mango,exist, Soi Aroy,sour
+northern thai pork,exist, Soi Aroy,spicy
+thai milk tea,exist, Soi Aroy,hot
+hummus,exist, Hummus & Grill,fresh
+mezze platter,exist, Hummus & Grill,
+kunafa,exist, Hummus & Grill,crispy
+baklava,exist, Hummus & Grill,sweet
+lamb,exist, Hummus & Grill,fresh
+lavash,exist, Hummus & Grill,fresh
+rice,exist, Hummus & Grill,fresh
+fresh mint tea,exist, Hummus & Grill,
+ice cream,exist, Hummus & Grill,fresh
+mango,exist, Hummus & Grill,fresh
+chicken,exist, Hummus & Grill,fresh
+pho,exist, Red Sparrow,fresh
+beef pie,exist, Red Sparrow,
+spring rolls,exist, Red Sparrow,fresh
+goi cuon,exist, Red Sparrow,fresh
+berkshire pork,exist, Red Sparrow,
+vietnamese pancake,exist, Red Sparrow,fresh
+flan,exist, Red Sparrow,fresh
+cha gio,exist, Red Sparrow,fresh
+short ribs,exist, Red Sparrow,tender
+papaya salad,exist, Red Sparrow,fresh
+soft shell crab,exist, Red Sparrow,soft
+grilled prawns,exist, Red Sparrow,soft
+donuts,exist, Red Sparrow,soft
+hotpot,exist, Red Sparrow,
+ice cream,exist, Red Sparrow,sweet
+seafood,exist, Red Sparrow,fresh
+pho,exist, Odette,
+pork,exist, Odette,fresh
+soup,exist, Odette,fresh
+bread,exist, Odette,fresh
+petit fours,exist, Odette,fresh
+mushroom steak,exist, Odette,
+meringue,exist, Odette,soft
+abalone,exist, Odette,
+seafood,exist, Melt Cafe,fresh
+chocolate cake,exist, Melt Cafe,fresh
+prawn,exist, Melt Cafe,fresh
+roast beed,exist, Melt Cafe,
+curry,exist, Melt Cafe,
+cold cuts,exist, Melt Cafe,
+oysters,exist, Melt Cafe,fresh
+cakes,exist, Melt Cafe,fresh
+laksa,exist, Melt Cafe,hot
+crab,exist, Melt Cafe,fresh
+soup,exist, Melt Cafe,hot
+spring rolls,exist, Leo Cafe & Restaurant,fresh
+fish and chips,exist, Leo Cafe & Restaurant,
+crab,exist, Leo Cafe & Restaurant,sour
+garlic prawns,exist, Leo Cafe & Restaurant,spicy
+beer,exist, Leo Cafe & Restaurant,soft
+ginger,exist, Leo Cafe & Restaurant,tender
+prime ribs,exist, Lawry's The Prime Rib,tender
+steak,exist, Lawry's The Prime Rib,tender
+salad,exist, Lawry's The Prime Rib,fresh
+lobster tail,exist, Lawry's The Prime Rib,fresh
+crab cakes,exist, Lawry's The Prime Rib,
+foie gras,exist, Lawry's The Prime Rib,hard
+ribs,exist, Lawry's The Prime Rib,tender
+bread,exist, Lawry's The Prime Rib,fresh
+seafood,exist, Lawry's The Prime Rib,fresh
