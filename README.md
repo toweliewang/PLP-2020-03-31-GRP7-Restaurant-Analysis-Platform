@@ -24,7 +24,7 @@ Through this process, the team has learnt immensely on the application of natura
 
 1. User Guide (Deployment)
 
-[![Watch the video](https://youtu.be/L8yu1DpmRKQ)
+[![](http://img.youtube.com/vi/L8yu1DpmRKQ/0.jpg)](http://www.youtube.com/watch?v=L8yu1DpmRKQ "")
 
 2. Sentiment Analysis & Aspect Mining Dashboard
 
@@ -33,7 +33,7 @@ Through this process, the team has learnt immensely on the application of natura
 
 3. Conversational UI
 
-[![Watch the video](https://youtu.be/DZ0x08KroUs)
+[![](http://img.youtube.com/vi/DZ0x08KroUs/0.jpg)](http://www.youtube.com/watch?v=DZ0x08KroUs "")
 
 
 
