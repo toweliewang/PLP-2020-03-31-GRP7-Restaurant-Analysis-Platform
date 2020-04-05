@@ -28,7 +28,7 @@ Through this process, the team has learnt immensely on the application of natura
 
 2. Sentiment Analysis & Aspect Mining Dashboard
 
-[![Watch the video](https://youtu.be/ze8PtoATnwk)
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/ze8PtoATnwk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 3. Conversational UI
 
