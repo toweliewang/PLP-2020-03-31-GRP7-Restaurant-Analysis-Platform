@@ -1,4 +1,4 @@
-# PLP-2020-03-31-GRP7-Food-Search-Customer-Analytics
+# PLP-2020-03-31-GRP7-Restaurant-Analysis-Platform
 ## SECTION 1 : PROJECT TITLE
 ## Food Search & Customer Analytics
 
