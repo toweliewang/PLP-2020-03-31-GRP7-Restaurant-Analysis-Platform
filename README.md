@@ -23,13 +23,16 @@ Through this process, the team has learnt immensely on the application of natura
 ## SECTION 3 : VIDEO DEMO
 
 1. User Guide (Deployment)
-[![Watch the video] (https://youtu.be/L8yu1DpmRKQ)
+
+[![Watch the video](https://youtu.be/L8yu1DpmRKQ)
 
 2. Sentiment Analysis & Aspect Mining Dashboard
-[![Watch the video] (https://youtu.be/ze8PtoATnwk)
+
+[![Watch the video](https://youtu.be/ze8PtoATnwk)
 
 3. Conversational UI
-[![Watch the video] (https://youtu.be/DZ0x08KroUs)
+
+[![Watch the video](https://youtu.be/DZ0x08KroUs)
 
 
 
