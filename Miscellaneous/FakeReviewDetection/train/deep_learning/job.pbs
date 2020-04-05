@@ -1,0 +1,20 @@
+#!/bin/bash
+#PBS -P volta_pilot
+#PBS -j oe
+#PBS -N plp
+#PBS -q volta_gpu
+#PBS -l select=1:ncpus=5:mem=50gb:ngpus=1
+#PBS -l walltime=6:00:00
+
+cd $PBS_O_WORKDIR;
+np=$(cat ${PBS_NODEFILE} | wc -l);
+
+image="/app1/common/singularity-img/3.1.0/Deep_Learning/Pytorch/pytorch_1.1.0_cuda10.0-cudnn7-devel-ubuntu16.04_horovod.simg"
+
+singularity exec $image bash << EOF > stdout.$PBS_JOBID 2> stderr.$PBS_JOBID
+
+
+PYTHONPATH=$PYTHONPATH:/home/svu/e0402032/volta_pypkg/lib/python3.5/site-packages
+export PYTHONPATH
+python rating_model_c.py
+EOF
