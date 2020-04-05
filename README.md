@@ -20,11 +20,18 @@ The team proposes an Intelligent Language Processing System which identify and f
 Through this process, the team has learnt immensely on the application of natural language processing techniques and how to incorporate them to provide useful services to the users. As an incidental, the team has developed an open source front end chatbot user interface.
 
 ---
-## SECTION 3 : VIDEO OF SYSTEM DEPLOYMENT GUIDE
+## SECTION 3 : VIDEO DEMO
 
-[![Watch the video](http://img.youtube.com/vi/HmR8BYN2fGQ/0.jpg)](https://youtu.be/HmR8BYN2fGQ)
+1. User Guide (Deployment)
+[![Watch the video](https://youtu.be/L8yu1DpmRKQ)
 
-*Note: Considering the sensitivity of commercial information, please go to luminus to check our system demo video.
+2. Sentiment Analysis & Aspect Mining Dashboard
+[![Watch the video](https://youtu.be/ze8PtoATnwk)
+
+3. Conversational UI
+[![Watch the video](https://youtu.be/DZ0x08KroUs)
+
+
 
 
 ---
